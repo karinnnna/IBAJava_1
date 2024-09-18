@@ -13,7 +13,8 @@ public class FirstClass {
         System.out.println("s="+s);
         System.out.printf("z=%f",z);
     }
-}
+}  
+
 package karina.ilchuk.firstApp;
 
 public class FirstClass {
